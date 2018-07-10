@@ -1,5 +1,5 @@
 // Literal Set Mapping from English to Braille Code
-const englishToBrailleLiteralSet = [
+let englishToBrailleLiteralSet = [
   ['1', '⠼⠁'],
   ['2', '⠼⠃'],
   ['3', '⠼⠉'],
